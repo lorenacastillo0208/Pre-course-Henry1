@@ -1,2 +1,1 @@
-# Pre-course-Henry1
-repo de estudio de henry
+Este proyectom es una prueba de como clonar el repo
